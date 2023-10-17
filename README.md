@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @NijaVirgil
-- 👀 I’m interested in ...crypto 
-- 🌱 I’m currently learning ...BEEE/UG
-- 💞️ I’m looking to collaborate on ...free crypto 
+- 👀 I’m interested in ...crypto
+- 😄 I got diploma in EEE (D.EEE)
+- 🌱 I’m currently learning ...B.EEE/UG
+- 💞️ I’m looking to work on ...freshers jobs
 - 📫 How to reach me ...ajinvirgil@gmail.com 
 
 <!---
